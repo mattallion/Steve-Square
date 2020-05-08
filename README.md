@@ -1,5 +1,5 @@
 # Steve-Square
-Video game made using Unity &amp; C#
+Video game made using Unity and C#
 
 Steps to Play:
   1. Download the Build zip file.
