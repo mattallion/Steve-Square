@@ -7,3 +7,5 @@ Steps to Play:
   3. Play the game!
   
 Refer to the Scripts folder to check out the coding behind the game :)
+Unfortunately, the game is only compatible for Windows.
+Full Gameplay Video: https://www.youtube.com/watch?v=x0yG4OgvGzE
