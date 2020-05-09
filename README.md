@@ -1,8 +1,6 @@
 # Steve-Square
 Video game made using Unity and C#.
 
-Unfortunately, the game only works on Windows.
-
 Steps to Play:
   1. Download the Build zip file.
   2. After downloading, unzip and run the Steve Square.exe file.
